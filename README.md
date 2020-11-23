@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Premier League Table by next.js
+
+https://premier-league-gamma.vercel.app/
